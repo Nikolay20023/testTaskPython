@@ -1,0 +1,12 @@
+fastapi[all]
+uvicorn[standard]
+python-dotenv
+pydantic
+sqlalchemy
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+asyncpg
+bcrypt==4.0.1
+loguru
+aiohttp
